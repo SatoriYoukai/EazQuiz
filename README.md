@@ -1,2 +1,2 @@
 # EazQuiz
-A clean and simple flashcard app
+A clean and web-based flashcard app
